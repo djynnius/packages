@@ -1,0 +1,7 @@
+[ferraus]
+name=ferraus
+baseurl=https://djynnius.github.io/packages/rpm
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://djynnius.github.io/packages/ferraus-archive-keyring.asc

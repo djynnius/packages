@@ -1,0 +1,4 @@
+Types: deb
+URIs: https://djynnius.github.io/packages/apt
+Suites: ./
+Signed-By: /etc/apt/keyrings/ferraus-archive-keyring.asc
