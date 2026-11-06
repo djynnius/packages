@@ -78,3 +78,43 @@ Description: A command-line audio workstation for scripts and AI agents
  pitch correction, MIDI, notation, plugin hosting, and mastering. Model weights
  download on first use.
 
+Package: ferraus
+Version: 0.1.4-1
+Architecture: amd64
+Maintainer: Sunday Ikpe <ikakke.ikpe@gmail.com>
+Installed-Size: 57998
+Depends: libc6 (>= 2.34), libc6 (>= 2.39), libstdc++6 (>= 13)
+Filename: pool/ferraus_0.1.4-1_amd64.deb
+Size: 14085116
+MD5sum: a4963da8225ae2a7795b17ac64362677
+SHA1: 714524ee6518b2dcb52fb9a1a0f41141db1acdf5
+SHA256: 9616cfef5f75d5ca562ad3e119ed85849f1306714b745077ac7c455f1ceb2ccf
+Section: sound
+Priority: optional
+Homepage: https://djynnius.github.io/ferraus
+Description: A command-line audio workstation for scripts and AI agents
+ A command-line audio workstation for scripts and AI agents: one binary for
+ conversion and editing, effects, restoration, noise reduction, stem separation,
+ pitch correction, MIDI, notation, plugin hosting, and mastering. Model weights
+ download on first use.
+
+Package: ferraus
+Version: 0.1.4-1
+Architecture: arm64
+Maintainer: Sunday Ikpe <ikakke.ikpe@gmail.com>
+Installed-Size: 48927
+Depends: libc6 (>= 2.34), libc6 (>= 2.39), libstdc++6 (>= 14)
+Filename: pool/ferraus_0.1.4-1_arm64.deb
+Size: 12726180
+MD5sum: 6badb0b857357b3630855677c484b2fe
+SHA1: 6b80349ab5ac9a138169a7544bf503c326acd5d3
+SHA256: 62c6be4b58fc2ba428a59baf57df382fa0a034c2fc757e28958d8c74cd0bbd85
+Section: sound
+Priority: optional
+Homepage: https://djynnius.github.io/ferraus
+Description: A command-line audio workstation for scripts and AI agents
+ A command-line audio workstation for scripts and AI agents: one binary for
+ conversion and editing, effects, restoration, noise reduction, stem separation,
+ pitch correction, MIDI, notation, plugin hosting, and mastering. Model weights
+ download on first use.
+
